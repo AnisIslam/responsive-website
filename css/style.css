@@ -1,0 +1,46 @@
+.logo-size img{
+    width: 300px;
+}
+.head-section{
+    background-color: #FFFFF4;
+}
+body h3{
+    font-weight: bolder;
+}
+h1, h3{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bolder;
+    color: #363958;
+}
+.button img{
+    width: 20%;
+}
+.button{
+   
+    width: 200px;
+    height: 60px;
+    margin-left: 20%;
+}
+.button span{
+    color: white;
+}
+.bag-photo{
+    margin: 5%;
+    border-radius: 20px;
+    background-color: #F1F1F1;
+   
+}
+
+.bag-card-footer h3{
+        color: rgb(59, 185, 59);
+        font-weight: bolder;
+}
+.indicator-icon img{
+margin-left: 20px;
+width: 50%;
+}
+.cart-man-image img{
+    width: 100%;
+    margin-left: 100px;
+}
